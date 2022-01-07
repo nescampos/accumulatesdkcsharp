@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>Nestor Campos</Company>
+    <Authors>Nestor Campos</Authors>
+    <Description>SDK for using Accumulate API</Description>
+    <RepositoryUrl>https://github.com/nescampos/accumulatesdkcsharp</RepositoryUrl>
+    <PackageTags>accumulate</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
